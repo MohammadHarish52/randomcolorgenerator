@@ -1,5 +1,6 @@
 const container = document.getElementById('container')
-const colors = ['#071952' ,'#0B666A', '#7D7463' , '#331D2C' , '#A78295' , '#78C1F3' , '#1D5B79','#1A5D1A' , '#FFC95F' , '#CBFFA9' , '#3F3B6C' , '#FCAEAE' , '#F5F5F5' , '#FF2171', '#8EAC50' , '#3F2E3E', '#071952','#B7C4CF']
+const colors = ['#071952' ,'#0B666A', '#7D7463' , '#331D2C' , '#A78295' , '#78C1F3' , '#1D5B79','#1A5D1A' , '#FFC95F' , '#CBFFA9' , '#3F3B6C' , '#FCAEAE' , '#F5F5F5' , '#FF2171', '#8EAC50' , '#3F2E3E', '#071952','#B7C4CF','#FBA1B7','#0D1282'
+               '#7C73C0' , '#331D2C', '#F5F5F5' , '#F86F03']
 const Sqaures =  500 ; 
 
 for (let i  = 0 ; i< Sqaures ; i++){
